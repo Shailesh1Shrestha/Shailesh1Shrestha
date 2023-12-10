@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shailesh1Shrestha
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScrpit
+- 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
